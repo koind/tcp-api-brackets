@@ -1,0 +1,5 @@
+{
+    "require": {
+        "koind/brackets": " ^1.0"
+    }
+}
